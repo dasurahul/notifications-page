@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/dasurahul/notifications-page](https://github.com/dasurahul/notifications-page)
+- Solution URL: [https://www.frontendmentor.io/solutions/notifications-page-using-tailwind-css-O96ubnEFnl](https://www.frontendmentor.io/solutions/notifications-page-using-tailwind-css-O96ubnEFnl)
 - Live Site URL: [https://notifications-page-rahul.vercel.app](https://notifications-page-rahul.vercel.app)
 
 ## My process
